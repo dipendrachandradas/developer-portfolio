@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+.orange-colour{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    /* padding: 5%; */
+    padding: 50px;
+}
+.half-width img{
+/* width: 80px; */
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange ,tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(imge/top-banner.png);
+    background-repeat: no-repeat;
+}
+.topp{
+padding-top: 30px;
+}
