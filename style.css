@@ -1,36 +1,37 @@
 body{
-    font-family: 'Roboto', sans-serif;
-    margin: 0;
+    font-family: 'Imperial Script', cursive;
+font-family: 'Mea Culpa', cursive;
+font-family: 'Oooh Baby', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Twinkle Star', cursive;
+margin: 0;
 }
+
 h1{
     font-size: 45px;
 }
-.orange-colour{
+
+.orange-color{
     color: orange;
 }
 section{
     display: flex;
+    padding-left: 60px;
 }
 .half-width{
-    width: 50%;
-    /* padding: 5%; */
-    padding: 50px;
-}
-.half-width img{
-/* width: 80px; */
+    width: 46%;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange ,tomato);
-    color: white;
-    font-weight: 700;
-    padding: 10px 30px;
+   background-image: linear-gradient(orange, tomato);
+   color: white;
+   font-weight: 700;
+    padding: 10px 25px;
     border-radius: 5px;
+
 }
 .top-banner{
     background-image: url(imge/top-banner.png);
     background-repeat: no-repeat;
-}
-.topp{
-padding-top: 30px;
 }
